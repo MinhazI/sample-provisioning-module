@@ -1,0 +1,33 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-servers",
+    "name": "win-authority-email",
+    "license": "MIT",
+    "category": "provisioning",
+    "description": {
+        "name": "Win Authority Email",
+        "tagline": "Provisioning Modules allow for the provisioning and management of Win Authority email service in WHMCS.",
+        "long": "Provisioning Modules allow for the provisioning and management of Win Authority email service in WHMCS.",
+        "features": [
+            "Provide clients with email provisioning",
+            "Configure domains for email provisioning",
+            "Configure email accounts for email provisioning"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/www.winauthority.com\/",
+        "learn_more": "https:\/\/www.winauthority.com\/email",
+        "email": "support@winauthority.com",
+        "support_url": "#",
+        "docs_url": "#"
+    },
+    "authors": [
+        {
+            "name": "Win Authority",
+            "homepage": "https:\/\/www.winauthority.com\/"
+        }
+    ]
+}
